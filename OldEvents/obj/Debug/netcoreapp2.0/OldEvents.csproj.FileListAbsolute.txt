@@ -1,0 +1,11 @@
+D:\Siłownia\Reactive\OldEvents\bin\Debug\netcoreapp2.0\OldEvents.deps.json
+D:\Siłownia\Reactive\OldEvents\bin\Debug\netcoreapp2.0\OldEvents.runtimeconfig.json
+D:\Siłownia\Reactive\OldEvents\bin\Debug\netcoreapp2.0\OldEvents.runtimeconfig.dev.json
+D:\Siłownia\Reactive\OldEvents\bin\Debug\netcoreapp2.0\OldEvents.dll
+D:\Siłownia\Reactive\OldEvents\bin\Debug\netcoreapp2.0\OldEvents.pdb
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.csprojResolveAssemblyReference.cache
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.csproj.CoreCompileInputs.cache
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.AssemblyInfoInputs.cache
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.AssemblyInfo.cs
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.dll
+D:\Siłownia\Reactive\OldEvents\obj\Debug\netcoreapp2.0\OldEvents.pdb

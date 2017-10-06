@@ -1,0 +1,17 @@
+D:\Siłownia\Reactive\Reactive\bin\Debug\Reactive.exe.config
+D:\Siłownia\Reactive\Reactive\bin\Debug\Reactive.exe
+D:\Siłownia\Reactive\Reactive\bin\Debug\Reactive.pdb
+D:\Siłownia\Reactive\Reactive\obj\Debug\Reactive.csprojResolveAssemblyReference.cache
+D:\Siłownia\Reactive\Reactive\obj\Debug\Reactive.csproj.CoreCompileInputs.cache
+D:\Siłownia\Reactive\Reactive\obj\Debug\Reactive.exe
+D:\Siłownia\Reactive\Reactive\obj\Debug\Reactive.pdb
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Core.dll
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Interfaces.dll
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Linq.dll
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Core.xml
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Interfaces.xml
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Linq.xml
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Siłownia\Reactive\Reactive\bin\Debug\System.Reactive.Windows.Threading.xml
